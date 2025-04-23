@@ -182,3 +182,5 @@ Different model might have different strategies to manage context, so if you wan
 
 - I am thankful to [Jarvislabs.ai](https://jarvislabs.ai/) who generously provided free GPU resources to experiment with Alpaca-LoRA deployment and share it to communities to try out.
 - I am thankful to [AI Network](https://www.ainetwork.ai) who generously provided A100(40G) x 8 DGX workstation for fine-tuning and serving the models.
+  
+https://drive.google.com/file/d/15OCRiD6xJc-4z3Oira585ISQWVn2R2UZ/view?usp=drive_link
